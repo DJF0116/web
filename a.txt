@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ex-aid
-=======
-ghost
->>>>>>> v5
+love
